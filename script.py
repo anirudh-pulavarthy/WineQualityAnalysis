@@ -111,7 +111,7 @@ def feat_space_search(arr, curr_idx):
 #
 #####################
 
-file1= csv.reader(open('WineQuality_Red.csv'), delimiter=',', quotechar='"')
+file1= csv.reader(open('data/WineQuality_Red.csv'), delimiter=',', quotechar='"')
 
 #Read Header Line
 header=next(file1)            
