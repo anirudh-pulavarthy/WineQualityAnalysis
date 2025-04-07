@@ -29,6 +29,7 @@ This repository contains a Python script (`script.py`) for analyzing wine qualit
      ```
 
 2. Install dependencies:
+    After placing required libraries in ```requirements.txt```
      ```bash
      pip install -r requirements.txt
      ```
